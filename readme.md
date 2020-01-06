@@ -1,7 +1,5 @@
-The program is used for research purpose only. It is NOT allowed for commercial purpose.
-
 This is a demonstration of the paper:
-Fei Hou, Qian Sun, Zheng Fang, Yong-Jin Liu, Shi-Min Hu, Hong Qin, Aimin Hao, Ying He. Poisson Vector Graphics (PVG). IEEE Transactions on Visualization and Computer Graphics, accepted, 2018. 
+Fei Hou, Qian Sun, Zheng Fang, Yong-Jin Liu, Shi-Min Hu, Hong Qin, Aimin Hao, Ying He. Poisson Vector Graphics (PVG).  IEEE Transactions on Visualization and Computer Graphics, vol. 26, no. 2, pp. 1361-1371, 2020.
 https://doi.org/10.1109/TVCG.2018.2867478
 
 The PVG executable is in ./bin/PoissonVectorGraphics.exe and some sample PVG files are in ./bin/resultImg.
@@ -12,4 +10,8 @@ Please note
 please update to the latest NVIDIA driver, which can be found in http://www.nvidia.com/download/index.aspx
 
 If you have any questions, please contact houfei@ios.ac.cn
-# pvg
+
+The program is used for research purpose only. It is NOT allowed for commercial purpose.
+The program uses Fade2D, which is not a free software. It requires commercial licenses for commercial uses.
+
+# Poisson Vector Graphics
